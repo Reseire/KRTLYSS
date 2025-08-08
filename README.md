@@ -7,7 +7,7 @@
 
 # TODO
  * 인게임 UI 번역
- * 인게임 다이얼로그 번역
+ * 인게임 다이얼로그 번역 (플럭스 완료)
  * 아이템 번역
  * 폰트 [정상화](https://youtu.be/cYRkZmBuDqI?si=wsyix-3GzIoiRUHy)
 ## 뭔 폰트 쓸건데요?
